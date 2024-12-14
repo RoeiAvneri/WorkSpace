@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <package name="python" version="1.0.0" requirements="None">
+        <file name="info.txt" path="https://github.com/RoeiAvneri/WorkSpace/packages/python"></file>
+    </package>
+</library>
