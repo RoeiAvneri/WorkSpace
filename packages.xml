@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <library>
-    <package name="python" version="1.0.0" requirements="None">
+    <package name="python" version="1.0.0" requirements="None" path="packages/python.zip">
         <file name="info.txt" path="https://github.com/RoeiAvneri/WorkSpace/packages/python"></file>
+    </package>
+    <package name="gyt" version="1.0.0" requirements="None" path="packages/gyt.zip">
+        <file name="data.txt" path="https://github.com/RoeiAvneri/WorkSpace/packages/gyt"></file>
     </package>
 </library>
